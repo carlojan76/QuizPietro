@@ -1,2 +1,0 @@
-# QuizPietro
-Quiz con rendicontazione
